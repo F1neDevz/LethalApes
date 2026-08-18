@@ -1,12 +1,11 @@
-MESSAGE OF THE UPDATE
------------------------------
+# MESSAGE OF THE UPDATE
 <size=10>
 Hello there! Welcome to Apes Recoded.
 
-Game is having some issues with Meta Attestation right now, if you get a message saying you're "Soft Banned" do not worry! This is <i>NOT</i> permenant!
+We are now officially entering our early beta phase for one of our biggest updates!
 
-You guys might have to live with this for a little bit while I work on our newest major update, so extremely sorry for this misconvenience.
+We'd also like to apologize for update delays and such, we have been experiencing some internal difficulties but we should be clear of them now.
 
-Some current fixes for you right now if this is happening is: keep restarting the game until it works, restart your headset, restart your wifi router.
+There's a lot of cool stuff coming, so we hope you enjoy what we've been working on!
 
-For everyone else, please just ignore this message and enjoy!
+Thanks for sticking with us, and have fun playing!
