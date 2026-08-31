@@ -2,10 +2,12 @@
 <size=10>
 Hello there! Welcome to Apes Recoded.
 
-We are now officially entering our early beta phase for one of our biggest updates!
+We have officially released one of our biggest updates in our game's history!
 
-We'd also like to apologize for update delays and such, we have been experiencing some internal difficulties but we should be clear of them now.
+This update took MONTHS to put together (though it was mostly due to internal difficulties,) and we hope we delivered.
 
-There's a lot of cool stuff coming, so we hope you enjoy what we've been working on!
+There could be some bugs, and if you find one, please report it to us in our discord!
 
-Thanks for sticking with us, and have fun playing!
+If you are a content creator, consider making a video giving feedback! We'd love to hear what you think.
+
+Enjoy!
